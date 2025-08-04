@@ -1,6 +1,6 @@
 # E-Book PDF to Audio
 Read PDF Files:
-using PYPDF@ library to open and extract text from all pages of a pdf document.
+using PYPDF2 library to open and extract text from all pages of a pdf document.
 Extract and Combine Text:
 concatenate the text from page to from the completeof the PDF.
 Convert text to speech:
